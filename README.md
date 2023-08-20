@@ -1,3 +1,1 @@
-# vite-excalibur-starter
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-tyuucl)
+# Minmal Starter Tamplate using Vite + Excalibur + Typesript Classes
